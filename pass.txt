@@ -58,8 +58,8 @@ admin!@#
 112233
 guest
 q1w2e3r4
-AŽERTY
-ažerty
+AÅ½ERTY
+aÅ¾erty
 UGJRMV
 !qaz@wsx
 00
@@ -306,8 +306,8 @@ zaq12wsx
 zxx321654xxz
 ' or '1'='1
 1' or 1=1 -- -
-AŽERTY
-ažerty
+AÅ½ERTY
+aÅ¾erty
 UGJRMV
 ugjrmv
 !QAZ@WSX
@@ -561,8 +561,8 @@ xmagico
 xxx
 zaq12wsx
 zxx321654xxz
-AŽERTY
-ažerty
+AÅ½ERTY
+aÅ¾erty
 UGJRMV
 ugjrmv
 !@#$%^&*
