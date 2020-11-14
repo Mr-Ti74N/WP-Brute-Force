@@ -35,7 +35,7 @@ if len(sys.argv) <= 1:
     print 'Examples: python WP-crack.py -h http://test.com/wp-login.php -u admin -P password.txt'
     sys.exit()
 
-print 'recoder: Mr.Ti74N '
+print 'Recoder: Mr.Ti74N '
 print 'Contact me: https://www.facebook.com/Official.Tawhid.Page'
 
 #
